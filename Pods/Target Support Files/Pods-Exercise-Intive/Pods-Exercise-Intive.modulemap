@@ -1,0 +1,6 @@
+framework module Pods_Exercise_Intive {
+  umbrella header "Pods-Exercise-Intive-umbrella.h"
+
+  export *
+  module * { export * }
+}

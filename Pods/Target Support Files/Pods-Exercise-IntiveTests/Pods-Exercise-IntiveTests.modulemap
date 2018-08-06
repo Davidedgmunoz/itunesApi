@@ -1,0 +1,6 @@
+framework module Pods_Exercise_IntiveTests {
+  umbrella header "Pods-Exercise-IntiveTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
